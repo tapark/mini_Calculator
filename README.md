@@ -1,5 +1,5 @@
 # 단순한 계산기
-***
+
 ### TextView 에 String 추가/제거
 ~~~kotlin
 TextView.append(string) // 뒤에 string 추가
